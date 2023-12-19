@@ -1,0 +1,206 @@
+2023-12-18 17:12:430 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:684 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:762 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (5abe6b5be6227bcbb454d43f6858251f)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:244 INFO  LoginPage :64 - Verifying Login: [[ChromeDriver: chrome on windows (5abe6b5be6227bcbb454d43f6858251f)] -> xpath: //h6[normalize-space()='Dashboard']]
+2023-12-18 17:12:945 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:233 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:325 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (010075642a932c4f04e15fddb7772112)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:535 INFO  DashboardPage :32 - Verifying Orange HRM Logo: [[ChromeDriver: chrome on windows (010075642a932c4f04e15fddb7772112)] -> xpath: //img[@alt='client brand banner']]
+2023-12-18 17:12:137 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:399 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:484 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (60cad5ad7733f4ef96b85933f332e710)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:441 INFO  HomePage :44 - Clicking on user profile logo: [[ChromeDriver: chrome on windows (60cad5ad7733f4ef96b85933f332e710)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-12-18 17:12:992 INFO  HomePage :50 - Clicking on Log Out: [[ChromeDriver: chrome on windows (60cad5ad7733f4ef96b85933f332e710)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-18 17:12:247 INFO  LoginPage :37 - Verifying Login Text: [[ChromeDriver: chrome on windows (60cad5ad7733f4ef96b85933f332e710)] -> xpath: //h5[normalize-space()='Login']]
+2023-12-18 17:12:762 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:29 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:112 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (d9100dd9b00ee99690c56cff70e959c4)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:382 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (d9100dd9b00ee99690c56cff70e959c4)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:596 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (d9100dd9b00ee99690c56cff70e959c4)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:130 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:385 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:471 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (aaf558620629681e91a1dd20ed3015a1)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:491 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (aaf558620629681e91a1dd20ed3015a1)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:740 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (aaf558620629681e91a1dd20ed3015a1)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:446 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:708 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:788 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (dddcae1175a64429c10796d0c1ba9952)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:917 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (dddcae1175a64429c10796d0c1ba9952)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:114 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (dddcae1175a64429c10796d0c1ba9952)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:746 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:06 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:78 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (126854a454aec7a131aeba5ee61330e7)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:252 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (126854a454aec7a131aeba5ee61330e7)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:419 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (126854a454aec7a131aeba5ee61330e7)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:642 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:888 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:974 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (521fb24bb3dae957d18f673b4c8f9051)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:171 INFO  LoginPage :64 - Verifying Login: [[ChromeDriver: chrome on windows (521fb24bb3dae957d18f673b4c8f9051)] -> xpath: //h6[normalize-space()='Dashboard']]
+2023-12-18 17:12:64 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:325 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:408 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (d1b4f07e810a19e917b4bec1aea6d153)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:473 INFO  DashboardPage :32 - Verifying Orange HRM Logo: [[ChromeDriver: chrome on windows (d1b4f07e810a19e917b4bec1aea6d153)] -> xpath: //img[@alt='client brand banner']]
+2023-12-18 17:12:376 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:650 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:735 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (231f228fe9bbc14866870ab9bd0785ee)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:871 INFO  HomePage :44 - Clicking on user profile logo: [[ChromeDriver: chrome on windows (231f228fe9bbc14866870ab9bd0785ee)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-12-18 17:12:437 INFO  HomePage :50 - Clicking on Log Out: [[ChromeDriver: chrome on windows (231f228fe9bbc14866870ab9bd0785ee)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-18 17:12:797 INFO  LoginPage :37 - Verifying Login Text: [[ChromeDriver: chrome on windows (231f228fe9bbc14866870ab9bd0785ee)] -> xpath: //h5[normalize-space()='Login']]
+2023-12-18 17:12:408 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:670 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:761 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (246137e173d9148fedceb40ecd8d4d39)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:925 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (246137e173d9148fedceb40ecd8d4d39)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:287 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (246137e173d9148fedceb40ecd8d4d39)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:161 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:423 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:505 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (988a376e3702a72108415664402d4af3)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:154 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (988a376e3702a72108415664402d4af3)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:699 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (988a376e3702a72108415664402d4af3)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:157 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:865 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:944 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (d671a6985d2dc9b5b6e11fd62f3a0937)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:645 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (d671a6985d2dc9b5b6e11fd62f3a0937)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:262 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (d671a6985d2dc9b5b6e11fd62f3a0937)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:953 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:310 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:394 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (c5f456fc2eb9ba86ac14a477f70ca663)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:679 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (c5f456fc2eb9ba86ac14a477f70ca663)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:77 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (c5f456fc2eb9ba86ac14a477f70ca663)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:16 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:267 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:359 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (42d1e8d9d16cf94c3d94322a4e52c715)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:495 INFO  LoginPage :64 - Verifying Login: [[ChromeDriver: chrome on windows (42d1e8d9d16cf94c3d94322a4e52c715)] -> xpath: //h6[normalize-space()='Dashboard']]
+2023-12-18 17:12:170 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:447 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:530 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (c6e8170e768d09ad4a2a156a031c1b2d)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:689 INFO  DashboardPage :32 - Verifying Orange HRM Logo: [[ChromeDriver: chrome on windows (c6e8170e768d09ad4a2a156a031c1b2d)] -> xpath: //img[@alt='client brand banner']]
+2023-12-18 17:12:78 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:337 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:423 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (0e95ad3560ad0c058ad7bd20fa449ee5)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:583 INFO  HomePage :44 - Clicking on user profile logo: [[ChromeDriver: chrome on windows (0e95ad3560ad0c058ad7bd20fa449ee5)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-12-18 17:12:135 INFO  HomePage :50 - Clicking on Log Out: [[ChromeDriver: chrome on windows (0e95ad3560ad0c058ad7bd20fa449ee5)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-18 17:12:403 INFO  LoginPage :37 - Verifying Login Text: [[ChromeDriver: chrome on windows (0e95ad3560ad0c058ad7bd20fa449ee5)] -> xpath: //h5[normalize-space()='Login']]
+2023-12-18 17:12:922 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:180 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:263 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (7a62cc3f1387d3ab1b92adc584f59066)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:521 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (7a62cc3f1387d3ab1b92adc584f59066)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:166 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (7a62cc3f1387d3ab1b92adc584f59066)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:206 INFO  ViewSystemUsersPage :76 - Clicking on Add button: [[ChromeDriver: chrome on windows (7a62cc3f1387d3ab1b92adc584f59066)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary']]
+2023-12-18 17:12:875 INFO  ViewSystemUsersPage :81 - Verifying User added text: Add User
+2023-12-18 17:12:420 INFO  ViewSystemUsersPage :86 - Selecting Admin from Admin dropdown: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Admin')]'
+2023-12-18 17:12:152 INFO  ViewSystemUsersPage :94 - Entering Employee name: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-autocomplete-wrapper']//*[contains(text(),'Goutam  Ganesh')]'
+2023-12-18 17:12:850 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:111 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:212 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (deaf31cd783f51da9f564d8529749816)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:285 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (deaf31cd783f51da9f564d8529749816)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:590 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (deaf31cd783f51da9f564d8529749816)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:634 INFO  AddUserPage :63 - Entering User Name: [[ChromeDriver: chrome on windows (deaf31cd783f51da9f564d8529749816)] -> xpath: //div[@class='oxd-form-row']/div[1]/div[1]/div[1]/div[2]/input[1]]
+2023-12-18 17:12:207 INFO  AddUserPage :68 - Selecting Role: [[ChromeDriver: chrome on windows (deaf31cd783f51da9f564d8529749816)] -> xpath: //div[@class='oxd-grid-4 orangehrm-full-width-grid']/div[2]/div/div[2]/div/div/div[2]/i]
+2023-12-18 17:12:848 INFO  AddUserPage :75 - Selecting Status Disable: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Disabled')]'
+2023-12-18 17:12:972 INFO  AddUserPage :89 - Clicking on search button [[ChromeDriver: chrome on windows (deaf31cd783f51da9f564d8529749816)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space']]
+2023-12-18 17:12:295 INFO  AddUserPage :94 - Verifying Result Text: [[ChromeDriver: chrome on windows (deaf31cd783f51da9f564d8529749816)] -> xpath: //div[@class='orangehrm-paper-container']/div[2]/div[1]/span[1]]
+2023-12-18 17:12:997 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:276 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:378 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (bb000b87ffe449e3fa08d78daa5a0005)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:595 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (bb000b87ffe449e3fa08d78daa5a0005)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:29 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (bb000b87ffe449e3fa08d78daa5a0005)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:65 INFO  ViewSystemUsersPage :76 - Clicking on Add button: [[ChromeDriver: chrome on windows (bb000b87ffe449e3fa08d78daa5a0005)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary']]
+2023-12-18 17:12:640 INFO  ViewSystemUsersPage :81 - Verifying User added text: Add User
+2023-12-18 17:12:215 INFO  ViewSystemUsersPage :86 - Selecting Admin from Admin dropdown: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Admin')]'
+2023-12-18 17:12:905 INFO  ViewSystemUsersPage :94 - Entering Employee name: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-autocomplete-wrapper']//*[contains(text(),'Goutam  Ganesh')]'
+2023-12-18 17:12:963 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-18 17:12:227 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-18 17:12:324 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (37670ea4f62cf57c999e2fec596515b2)] -> xpath: //button[@type='submit']]
+2023-12-18 17:12:449 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (37670ea4f62cf57c999e2fec596515b2)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-18 17:12:794 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (37670ea4f62cf57c999e2fec596515b2)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-18 17:12:833 INFO  AddUserPage :63 - Entering User Name: [[ChromeDriver: chrome on windows (37670ea4f62cf57c999e2fec596515b2)] -> xpath: //div[@class='oxd-form-row']/div[1]/div[1]/div[1]/div[2]/input[1]]
+2023-12-18 17:12:422 INFO  AddUserPage :68 - Selecting Role: [[ChromeDriver: chrome on windows (37670ea4f62cf57c999e2fec596515b2)] -> xpath: //div[@class='oxd-grid-4 orangehrm-full-width-grid']/div[2]/div/div[2]/div/div/div[2]/i]
+2023-12-18 17:12:57 INFO  AddUserPage :75 - Selecting Status Disable: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Disabled')]'
+2023-12-18 17:12:225 INFO  AddUserPage :121 - Clicking on search button: [[ChromeDriver: chrome on windows (37670ea4f62cf57c999e2fec596515b2)] -> xpath: //div[@class='oxd-table-filter-area']/form[1]/div[2]/button[2]]
+2023-12-18 17:12:498 INFO  AddUserPage :126 - Verifying No Record Found: [[ChromeDriver: chrome on windows (37670ea4f62cf57c999e2fec596515b2)] -> xpath: //div[@class='orangehrm-horizontal-padding orangehrm-vertical-padding']]
+2023-12-19 20:12:21 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-19 20:12:343 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-19 20:12:431 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (3704702522b67c6b7c0153b25896854d)] -> xpath: //button[@type='submit']]
+2023-12-19 20:12:449 INFO  LoginPage :64 - Verifying Login: [[ChromeDriver: chrome on windows (3704702522b67c6b7c0153b25896854d)] -> xpath: //h6[normalize-space()='Dashboard']]
+2023-12-19 20:12:703 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-19 20:12:17 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-19 20:12:107 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (a8cedeca0ddf86a76f4881da465e56f4)] -> xpath: //button[@type='submit']]
+2023-12-19 20:12:49 INFO  DashboardPage :32 - Verifying Orange HRM Logo: [[ChromeDriver: chrome on windows (a8cedeca0ddf86a76f4881da465e56f4)] -> xpath: //img[@alt='client brand banner']]
+2023-12-19 20:12:563 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-19 20:12:848 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-19 20:12:941 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (416bbcf6342531e42fdd1b72fdab726f)] -> xpath: //button[@type='submit']]
+2023-12-19 20:12:865 INFO  HomePage :44 - Clicking on user profile logo: [[ChromeDriver: chrome on windows (416bbcf6342531e42fdd1b72fdab726f)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-12-19 20:12:457 INFO  HomePage :50 - Clicking on Log Out: [[ChromeDriver: chrome on windows (416bbcf6342531e42fdd1b72fdab726f)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-19 21:12:576 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-19 21:12:881 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-19 21:12:961 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (437430fd4c3b74afc34ec56b1a72f777)] -> xpath: //button[@type='submit']]
+2023-12-19 21:12:887 INFO  HomePage :44 - Clicking on user profile logo: [[ChromeDriver: chrome on windows (437430fd4c3b74afc34ec56b1a72f777)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-12-19 21:12:439 INFO  HomePage :50 - Clicking on Log Out: [[ChromeDriver: chrome on windows (437430fd4c3b74afc34ec56b1a72f777)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-19 21:12:821 INFO  LoginPage :37 - Verifying Login Text: [[ChromeDriver: chrome on windows (437430fd4c3b74afc34ec56b1a72f777)] -> xpath: //h5[normalize-space()='Login']]
+2023-12-19 21:12:734 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-19 21:12:17 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-19 21:12:106 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (37bee35eae963e1969263e04c04db334)] -> xpath: //button[@type='submit']]
+2023-12-19 21:12:88 INFO  LoginPage :64 - Verifying Login: [[ChromeDriver: chrome on windows (37bee35eae963e1969263e04c04db334)] -> xpath: //h6[normalize-space()='Dashboard']]
+2023-12-19 21:12:357 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-19 21:12:635 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-19 21:12:718 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (88fdfbce9ff85b57fd29bbdb44893b2e)] -> xpath: //button[@type='submit']]
+2023-12-19 21:12:733 INFO  DashboardPage :32 - Verifying Orange HRM Logo: [[ChromeDriver: chrome on windows (88fdfbce9ff85b57fd29bbdb44893b2e)] -> xpath: //img[@alt='client brand banner']]
+2023-12-19 21:12:978 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-19 21:12:238 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-19 21:12:333 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (a748e94f546c69096849ad03a46ec7bc)] -> xpath: //button[@type='submit']]
+2023-12-19 21:12:260 INFO  HomePage :44 - Clicking on user profile logo: [[ChromeDriver: chrome on windows (a748e94f546c69096849ad03a46ec7bc)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-12-19 21:12:816 INFO  HomePage :50 - Clicking on Log Out: [[ChromeDriver: chrome on windows (a748e94f546c69096849ad03a46ec7bc)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-19 21:12:940 INFO  LoginPage :37 - Verifying Login Text: [[ChromeDriver: chrome on windows (a748e94f546c69096849ad03a46ec7bc)] -> xpath: //h5[normalize-space()='Login']]
+2023-12-19 21:12:394 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-19 21:12:696 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-19 21:12:806 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (965745c18516a5dc0ca23ff5b09b75e1)] -> xpath: //button[@type='submit']]
+2023-12-19 21:12:788 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (965745c18516a5dc0ca23ff5b09b75e1)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-19 21:12:105 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (965745c18516a5dc0ca23ff5b09b75e1)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-19 21:12:157 INFO  ViewSystemUsersPage :76 - Clicking on Add button: [[ChromeDriver: chrome on windows (965745c18516a5dc0ca23ff5b09b75e1)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary']]
+2023-12-19 21:12:626 INFO  ViewSystemUsersPage :81 - Verifying User added text: Add User
+2023-12-19 21:12:209 INFO  ViewSystemUsersPage :86 - Selecting Admin from Admin dropdown: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Admin')]'
+2023-12-19 21:12:962 INFO  ViewSystemUsersPage :94 - Entering Employee name: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-autocomplete-wrapper']//*[contains(text(),'Goutam  Ganesh')]'
+2023-12-19 21:12:652 INFO  ViewSystemUsersPage :101 - Entering User: [[ChromeDriver: chrome on windows (965745c18516a5dc0ca23ff5b09b75e1)] -> xpath: //div[@class='oxd-form-row']/div[1]/div[4]/div[1]/div[2]/input[1]]
+2023-12-19 21:12:322 INFO  ViewSystemUsersPage :106 - Selecting Status Disable: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Disabled')]'
+2023-12-19 21:12:494 INFO  ViewSystemUsersPage :122 - Entering Password: [[ChromeDriver: chrome on windows (965745c18516a5dc0ca23ff5b09b75e1)] -> xpath: //div[@class='orangehrm-card-container']/form[1]/div[2]/div[1]/div[1]/div[1]/div[2]/input[1]]
+2023-12-19 21:12:573 INFO  ViewSystemUsersPage :127 - Entering Confirm Password: [[ChromeDriver: chrome on windows (965745c18516a5dc0ca23ff5b09b75e1)] -> xpath: //div[@class='orangehrm-card-container']/form[1]/div[2]/div[1]/div[2]/div[1]/div[2]/input[1]]
+2023-12-19 21:12:663 INFO  ViewSystemUsersPage :132 - Clicking on Save: [[ChromeDriver: chrome on windows (965745c18516a5dc0ca23ff5b09b75e1)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space']]
+2023-12-19 21:12:360 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-19 21:12:634 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-19 21:12:716 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (31b87bae0494249f61769e8e1f7172e8)] -> xpath: //button[@type='submit']]
+2023-12-19 21:12:103 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (31b87bae0494249f61769e8e1f7172e8)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-19 21:12:814 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (31b87bae0494249f61769e8e1f7172e8)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-19 21:12:868 INFO  AddUserPage :63 - Entering User Name: [[ChromeDriver: chrome on windows (31b87bae0494249f61769e8e1f7172e8)] -> xpath: //div[@class='oxd-form-row']/div[1]/div[1]/div[1]/div[2]/input[1]]
+2023-12-19 21:12:452 INFO  AddUserPage :68 - Selecting Role: [[ChromeDriver: chrome on windows (31b87bae0494249f61769e8e1f7172e8)] -> xpath: //div[@class='oxd-grid-4 orangehrm-full-width-grid']/div[2]/div/div[2]/div/div/div[2]/i]
+2023-12-19 21:12:48 INFO  AddUserPage :75 - Selecting Status Disable: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Disabled')]'
+2023-12-19 21:12:237 INFO  AddUserPage :89 - Clicking on search button [[ChromeDriver: chrome on windows (31b87bae0494249f61769e8e1f7172e8)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space']]
+2023-12-19 21:12:531 INFO  AddUserPage :94 - Verifying Result Text: [[ChromeDriver: chrome on windows (31b87bae0494249f61769e8e1f7172e8)] -> xpath: //div[@class='orangehrm-paper-container']/div[2]/div[1]/span[1]]
+2023-12-19 21:12:986 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-19 21:12:259 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-19 21:12:360 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //button[@type='submit']]
+2023-12-19 21:12:349 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-19 21:12:713 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-19 21:12:740 INFO  ViewSystemUsersPage :76 - Clicking on Add button: [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary']]
+2023-12-19 21:12:405 INFO  ViewSystemUsersPage :81 - Verifying User added text: Add User
+2023-12-19 21:12:950 INFO  ViewSystemUsersPage :86 - Selecting Admin from Admin dropdown: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Admin')]'
+2023-12-19 21:12:690 INFO  ViewSystemUsersPage :94 - Entering Employee name: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-autocomplete-wrapper']//*[contains(text(),'Goutam  Ganesh')]'
+2023-12-19 21:12:460 INFO  ViewSystemUsersPage :101 - Entering User: [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //div[@class='oxd-form-row']/div[1]/div[4]/div[1]/div[2]/input[1]]
+2023-12-19 21:12:136 INFO  ViewSystemUsersPage :114 - Selecting Status Enable: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Enabled')]'
+2023-12-19 21:12:368 INFO  ViewSystemUsersPage :122 - Entering Password: [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //div[@class='orangehrm-card-container']/form[1]/div[2]/div[1]/div[1]/div[1]/div[2]/input[1]]
+2023-12-19 21:12:459 INFO  ViewSystemUsersPage :127 - Entering Confirm Password: [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //div[@class='orangehrm-card-container']/form[1]/div[2]/div[1]/div[2]/div[1]/div[2]/input[1]]
+2023-12-19 21:12:604 INFO  ViewSystemUsersPage :132 - Clicking on Save: [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space']]
+2023-12-19 21:12:205 INFO  AddUserPage :63 - Entering User Name: [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //div[@class='oxd-form-row']/div[1]/div[1]/div[1]/div[2]/input[1]]
+2023-12-19 21:12:896 INFO  AddUserPage :68 - Selecting Role: [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //div[@class='oxd-grid-4 orangehrm-full-width-grid']/div[2]/div/div[2]/div/div/div[2]/i]
+2023-12-19 21:12:568 INFO  AddUserPage :82 - Selecting Status Disable: [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //div[contains(text(),'Enabled')]]
+2023-12-19 21:12:759 INFO  AddUserPage :89 - Clicking on search button [[ChromeDriver: chrome on windows (bc324d5553bd3ba92ab98e5c177c3666)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space']]
+2023-12-19 21:12:902 INFO  AddUserPage :99 - Clicking on Checkbox: Proxy element for: DefaultElementLocator 'By.xpath: //body/div[@id='app']/div[1]/div[2]/div[2]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/label[1]/span[1]/i[1]'
+2023-12-19 21:12:595 INFO  LoginPage :43 - Enter User Name: Admin
+2023-12-19 21:12:872 INFO  LoginPage :53 - Enter Password: admin123
+2023-12-19 21:12:987 INFO  LoginPage :48 - Clicking on Login Button: [[ChromeDriver: chrome on windows (eec5d0eae8153de0e5ae0a1932d8e135)] -> xpath: //button[@type='submit']]
+2023-12-19 21:12:892 INFO  ViewSystemUsersPage :66 - Clicking on Admin: [[ChromeDriver: chrome on windows (eec5d0eae8153de0e5ae0a1932d8e135)] -> xpath: //a[@href='/web/index.php/admin/viewAdminModule']]
+2023-12-19 21:12:485 INFO  ViewSystemUsersPage :71 - Verifying System User Text: [[ChromeDriver: chrome on windows (eec5d0eae8153de0e5ae0a1932d8e135)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2023-12-19 21:12:551 INFO  AddUserPage :63 - Entering User Name: [[ChromeDriver: chrome on windows (eec5d0eae8153de0e5ae0a1932d8e135)] -> xpath: //div[@class='oxd-form-row']/div[1]/div[1]/div[1]/div[2]/input[1]]
+2023-12-19 21:12:170 INFO  AddUserPage :68 - Selecting Role: [[ChromeDriver: chrome on windows (eec5d0eae8153de0e5ae0a1932d8e135)] -> xpath: //div[@class='oxd-grid-4 orangehrm-full-width-grid']/div[2]/div/div[2]/div/div/div[2]/i]
+2023-12-19 21:12:855 INFO  AddUserPage :75 - Selecting Status Disable: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Disabled')]'
+2023-12-19 21:12:157 INFO  AddUserPage :121 - Clicking on search button: [[ChromeDriver: chrome on windows (eec5d0eae8153de0e5ae0a1932d8e135)] -> xpath: //div[@class='oxd-table-filter-area']/form[1]/div[2]/button[2]]
+2023-12-19 21:12:465 INFO  AddUserPage :126 - Verifying No Record Found: [[ChromeDriver: chrome on windows (eec5d0eae8153de0e5ae0a1932d8e135)] -> xpath: //div[@class='orangehrm-horizontal-padding orangehrm-vertical-padding']]
